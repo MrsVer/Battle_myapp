@@ -72,3 +72,10 @@ By the end of the week all developers can:
 After the challenges, you can stretch yourself by increasing the complexity of Battle.
 
 * [Post Challenge](post_challenges/post_challenge.md)
+
+### Gem files
+**Sintra**: -  [http://sinatrarb.com/documentation.html](http://sinatrarb.com/documentation.html)
+
+[http://sinatrarb.com/contrib/](http://sinatrarb.com/contrib/)
+
+**Webric**: [https://github.com/ruby/webrick](https://github.com/ruby/webrick)
