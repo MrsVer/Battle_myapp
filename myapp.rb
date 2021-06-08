@@ -10,7 +10,6 @@ get '/' do
   end
 
   get '/cat' do
-    "<div style='border: 3px dashed red'>
-    <img src='https://bit.ly/3gfs1Ro'>
-   </div>"
+    @name = ["Amigo", "Misty", "Almond"].sample
+    erb(:index)
   end
