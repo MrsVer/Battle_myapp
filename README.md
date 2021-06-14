@@ -1,5 +1,7 @@
 # Battle_myapp
 
+### [Makers Academy](http://www.makersacademy.com) - Week 3 Pair Programming Project
+
 
 By the end of the week all developers can:
 
